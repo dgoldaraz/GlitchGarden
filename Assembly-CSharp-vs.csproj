@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\LevelManager.cs" />
      <Compile Include="Assets\Scripts\Manager.cs" />
+     <Compile Include="Assets\Scripts\MusicManager.cs" />
      <Compile Include="Assets\Scripts\SplashManager.cs" />
      <Compile Include="Assets\Scripts\setScore.cs" />
  <Reference Include="UnityEngine.UI">
